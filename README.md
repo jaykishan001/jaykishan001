@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data structure and Backend**
 
-- ⚡ Fun fact **I love play BGMI**
+- ⚡ Fun fact **I love playing BGMI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
